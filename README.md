@@ -11,4 +11,7 @@ Here is a brief info about me:
 - 📫 Reach me udayasaichikka@gmail.com or https://linkedin.com/chikka-udaya-sai
 - ⚡ PS: Products will be delivered on time with daily updates and weekly meetings
 
-<img align="left" alt="Uday's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChikkaUdayaSai&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Uday's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChikkaUdayaSai&show_icons=true&hide_border=true&count_private=true&include_all_commits " />
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChikkaUdayaSai&layout=compact)]
