@@ -4,6 +4,13 @@ I am Udaya Sai
 <h3 align="center">A passionate Data Scientist from India</h3>
 Here is a brief info about me:
 
+<a href="https://github.com/ChikkaUdayaSai/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/ChikkaUdayaSai/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/ChikkaUdayaSai/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/ChikkaUdayaSai/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/ChikkaUdayaSai/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
+
+
 - 🔭 I’m currently working on  Machine Learning Solutions and have 2+ years of experience in building Machine Learning, NLP, Computer Vision and GUI applications as a Freelancer and Full time employee 
 - 🌱 Available for Remote and Contract Jobs at decent price
 - 👯 I’m looking for clients, to understand their requirements and to turn the requirements into working business solutions at an affordable cost
