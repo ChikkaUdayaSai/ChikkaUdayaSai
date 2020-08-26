@@ -14,7 +14,6 @@ Here is a brief info about me:
 <img align="left" alt="Uday's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChikkaUdayaSai&show_icons=true&hide_border=true&count_private=true&include_all_commits " />
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChikkaUdayaSai&layout=compact&count_private=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chikkaudayasai" alt="chikkaudayasai" /> </p>
 
