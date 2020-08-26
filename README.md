@@ -14,4 +14,4 @@ Here is a brief info about me:
 <img align="left" alt="Uday's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChikkaUdayaSai&show_icons=true&hide_border=true&count_private=true&include_all_commits " />
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChikkaUdayaSai&layout=compact&count_private=true)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChikkaUdayaSai&layout=compact&count_private=true)
