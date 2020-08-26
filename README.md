@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Udaya Sai
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Scientist who loves to solve real world problems</h3>
 Here is a brief info about me:
 
 - 🔭 I’m currently working on  Machine Learning Solutions and have 2+ years of experience in building Machine Learning, NLP, Computer Vision and GUI applications as a Freelancer and Full time employee 
