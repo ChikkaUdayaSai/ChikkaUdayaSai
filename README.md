@@ -10,3 +10,5 @@ Here is a brief info about me:
 - 💬 I have experience in working with NLP, Chatbot Development, GUI applications and Computer Vision
 - 📫 Reach me udayasaichikka@gmail.com or https://linkedin.com/chikka-udaya-sai
 - ⚡ PS: Products will be delivered on time with daily updates and weekly meetings
+
+<img align="left" alt="Uday's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChikkaUdayaSai&show_icons=true&hide_border=true" />
