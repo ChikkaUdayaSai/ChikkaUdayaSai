@@ -14,7 +14,7 @@ Here is a brief info about me:
 
 [![Uday's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChikkaUdayaSai&theme=xcode)](https://git.io/ChikkaUdayaSai)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChikkaUdayaSai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 	
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChikkaUdayaSai&show_icons=true&hide_border=true&count_private=true&include_all_commits&theme=tokyonight" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChikkaUdayaSai&theme=tokyonight" />
